@@ -12,6 +12,6 @@ such as its name, image, type, HP, moves, and weakness.
   
 ## Screenshots
 <div>
-    <img src="Screenshot1.jpg" alt="Screenshot1" width="300" height="500">
-    <img src="Screenshot2.jpg" alt="Screenshot2" width="300" height="500">
+    <img src="Screenshot1.jpg" alt="Screenshot1" width="300" height="600">
+    <img src="Screenshot2.jpg" alt="Screenshot2" width="300" height="600">
 </div>
